@@ -26,14 +26,18 @@
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<h3> GitHub Stats 📊 </h2>
+<h3> GitHub Stats 📊 </h3>
+<div>
 <a href="https://github.com/MohamedEsssam/MohamedEsssam">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedEsssam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" padding-right="30px"/>
 </a>
-<br/>
+</div>
+
+<div>
 <a href="https://github.com/MohamedEsssam/MohamedEsssam">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEsssam&layout=compact&langs_count=8&theme=dracula"/>
 </a>
+</div>
 
 ![snake gif](https://github.com/MohamedEsssam/MohamedEsssam/raw/output/github-contribution-grid-snake.svg)
 
