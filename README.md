@@ -30,12 +30,12 @@
 <p>
   
 [![My Contribution](https://github-readme-stats.vercel.app/api?username=MohamedEsssam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/MohamedEsssam/MohamedEsssam)  
-  
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEsssam&layout=compact&langs_count=8&theme=algolia)](https://github.com/MohamedEsssam/MohamedEsssam)
 
 [![My Github Contribution Animation](https://github.com/MohamedEsssam/MohamedEsssam/raw/output/github-contribution-grid-snake.svg)](https://github.com/MohamedEsssam/MohamedEsssam)
 
-<!--
 **MohamedEsssam/MohamedEsssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
